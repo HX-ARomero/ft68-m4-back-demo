@@ -2,7 +2,7 @@
 
 ## Resumenes de Clases
 
-- [01- Backend Architecture]()
+- [01- Backend Architecture](./readmes/clases/NestJS-01.md)
 - [02- NestJS Fundamentals I]()
 - [03- NestJS Fundamentals II]()
   - [Decoradores]()
@@ -26,6 +26,8 @@
   - [Regalos de fin de Módulo]()
 
 ## JavaScript
+
+- [Truthy & Falsy](./readmes/javascript/Trythy_Falsy.md)
 
 ## Varios
 

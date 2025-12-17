@@ -2,7 +2,7 @@
 
 - Sirve para asignar un valor por defecto solo cuando algo es null o undefined.
 
-[Volver](./JavaScript.md)
+[Volver](../../README.md)
 
 📘 Sintaxis:
 
@@ -40,4 +40,4 @@ console.log(total); // 0 (¡Si usa el valor por defecto!, ya que 0 es Falsy)
 - ??: Asignar valor por defecto Solo si la opción es "null" o "undefined".
 - OR (||): Asignar valor por defecto Si la opción es "Falsy.
 
-[Volver](./JavaScript.md)
+[Volver](../../README.md)

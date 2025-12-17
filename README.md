@@ -3,7 +3,7 @@
 ## Resumenes de Clases
 
 - [01- Backend Architecture](./readmes/clases/NestJS-01.md)
-- [02- NestJS Fundamentals I]()
+- [02- NestJS Fundamentals I](./readmes/clases/NestJS-02.md)
 - [03- NestJS Fundamentals II]()
   - [Decoradores]()
   - [Providers]()
@@ -28,6 +28,7 @@
 ## JavaScript
 
 - [Truthy & Falsy](./readmes/javascript/Trythy_Falsy.md)
+- [Operador de Fusión Nula](./readmes/javascript/Fusion_nula.md)
 
 ## Varios
 

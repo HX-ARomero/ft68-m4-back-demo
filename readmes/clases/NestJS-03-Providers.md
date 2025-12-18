@@ -46,11 +46,6 @@ export class UsersController {
 
 ➡️ Son útiles cuando queremos reemplazar implementaciones, inyectar configuraciones dinámicas, o usar dependencias condicionalmente.
 
-### ⚠️ IMPORTANTE
-
-- ❗ Solo veremos ejemplos en nuestro proyecto al ver el tema de Testing (que es un Extra Credit).
-- ❗La siguiente explicación excede lo que se pretende para este Módulo 4 - Back; pero doy contexto y ejemplos para quien quiera profundizar en el tema.
-
 ## 🧱3. Tipos de Custom Providers
 
 ### 🔸useClass

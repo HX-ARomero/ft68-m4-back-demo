@@ -9,7 +9,7 @@
   - [Providers](./readmes/clases/NestJS-03-Providers.md)
   - [Principios SOLID con ejemplos](./readmes/clases/NestJS-03-SOLID.md)
 - [04- NestJS Routing](./readmes//clases/NestJS-04.md)
-- [05- NestJS & TypeORM]()
+- [05- NestJS & TypeORM](./readmes/clases/NestJS-05.md)
 - [06- NestJS Pipes]()
 - [07- NestJS File Upload]()
 - [08- Autenticación I]()

@@ -72,7 +72,9 @@ bootstrap();
 - Se levanta el servidor HTTP (por defecto Express o Fastify).
 - Nest imprime el log de arranque.
 
-<img src="../assets/10-NestJS..png" alt="NestJS Cycle">
+<div style="text-align: center;">
+  <img src="../assets/06-01.png" alt="NestJS Cycle" width="400" />
+</div>
 
 ## 🧭 Diagrama de flujo
 

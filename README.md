@@ -14,7 +14,7 @@
   - [Secuencia de inicio de una aplicación NestJS](./readmes/clases/NestJS-06-ArranqueNestJS.md)
 - [07- NestJS File Upload](./readmes/clases/NestJS-07.md)
   - [Refactorización de Código](./readmes/clases/NestJS-07-Refactor.md)
-- [08- Autenticación I]()
+- [08- Autenticación I](./readmes/clases/NestJS-08.md)
 - [09- Autenticación II]()
 - 10- NestJS Testing
   - [Ciclo de Vida del Software]()

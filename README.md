@@ -19,8 +19,8 @@
   - [Versión con Strings](./readmes/clases/NestJS-09.md)
   - [Versión con Arrays](./readmes/clases/NestJS-09-array.md)
 - 10- NestJS Testing
-  - [Ciclo de Vida del Software]()
-  - [Testing]()
+  - [Ciclo de Vida del Software](./readmes/clases/NestJS-10-Software.md)
+  - [Testing](./readmes/clases/NestJS-10-Testing.md)
 - [11- Open API / Documentation]()
 - [12- Docker]()
   - [Datos Curiosos sobre la Programación]()
@@ -35,6 +35,7 @@
 - [Parámetros y Argumentos](./readmes/javascript/Parametros_Argumentos.md)
 - [Parámetros Inteligentes](./readmes/javascript/ParametrosInteligentes.md)
 - [Buenas Prácticas](./readmes/javascript/Buenas_Practicas.md)
+- [Datos Curiosos](./readmes/javascript/DatosCuriosos.md)
 
 ## Varios
 

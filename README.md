@@ -2,6 +2,8 @@
 
 ## Resumenes de Clases
 
+[SIMULACRO DE CHECKPOINT](./readmes/SimulacroChoice.md)
+
 - [01- Backend Architecture](./readmes/clases/NestJS-01.md)
 - [02- NestJS Fundamentals I](./readmes/clases/NestJS-02.md)
 - [03- NestJS Fundamentals II](./readmes/clases/NestJS-03.md)

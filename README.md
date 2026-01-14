@@ -21,12 +21,11 @@
 - 10- NestJS Testing
   - [Ciclo de Vida del Software](./readmes/clases/NestJS-10-Software.md)
   - [Testing](./readmes/clases/NestJS-10-Testing.md)
-- [11- Open API / Documentation]()
-- [12- Docker]()
-  - [Datos Curiosos sobre la Programación]()
-  - [npkill - Elimninar "node_modules"]()
-- [Repaso]()
-  - [Regalos de fin de Módulo]()
+- [11- Open API / Documentation](./readmes/clases/NestJS-11.md)
+- [12- Docker](./readmes/clases/NestJS-12.md)
+  - [npkill - Elimninar "node_modules"](./readmes/npkill.md)
+- [Repaso](./readmes/clases/Repaso.md)
+  - [Regalos de fin de Módulo](./readmes/Regalos.md)
 
 ## JavaScript
 
